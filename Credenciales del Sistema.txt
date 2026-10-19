@@ -1,0 +1,4 @@
+Credenciales del Sistema
+
+usuario: admin@crm.com
+contraseña: password
